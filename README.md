@@ -6,11 +6,11 @@ A pixel-faithful partial clone of [enterprise.accredian.com](https://enterprise.
 
 ## 🚀 Live Demo
 
-[https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+[https://your-vercel-url.vercel.app](https://accredian12.vercel.app)
 
 ## 📦 GitHub Repository
 
-[https://github.com/your-username/accredian](https://github.com/your-username/accredian)
+[https://github.com/your-username/accredian](https://github.com/risrajawat/accredian)
 
 ---
 
