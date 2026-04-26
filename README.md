@@ -18,7 +18,7 @@ A pixel-faithful partial clone of [enterprise.accredian.com](https://enterprise.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/accredian.git
+git clone https://github.com/risrajawat/accredian.git
 cd accredian
 
 # 2. Install dependencies
