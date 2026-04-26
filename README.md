@@ -1,6 +1,6 @@
 # Accredian Enterprise — Partial Clone
 
-A pixel-faithful partial clone of [enterprise.accredian.com](https://enterprise.accredian.com) built with **Next.js 14 (App Router)**, **TypeScript**, and **Tailwind CSS**.
+A pixel-faithful partial clone of [enterprise.accredian.com](https://enterprise.accredian.com) built with **Next.js 16 (App Router)**, **TypeScript**, and **Tailwind CSS V4**.
 
 ---
 
